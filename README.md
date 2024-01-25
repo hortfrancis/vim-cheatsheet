@@ -1,5 +1,7 @@
 # Vim Cheatsheet for Git Merges
 
+![](https://hortfrancis.github.io/vim-cheatsheet/Screenshot%202024-01-25%20at%2018.32.00.png)
+
 Vim operates in various modes, the most common being Normal mode and Insert mode. When Git launches Vim (e.g., for commit messages), it starts in Normal mode.
 
 ## Basic Navigation
